@@ -1,0 +1,8 @@
+{
+  "name": "Sâmia Vasconcelos Prime Dental",
+  "description": "Landing page premium focada em converter pacientes através de autoridade e agendamento rápido via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
